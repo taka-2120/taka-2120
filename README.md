@@ -6,6 +6,8 @@ I'm Yu Takahashi.
 
 [![Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=taka-2120&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taka-2120&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **taka-2120/taka-2120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
