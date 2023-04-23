@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+I'm Yu Takahashi.
+
+- 🎓 I’m currently majoring Information Engineering in Kwansei Gakuin University.
+- 🦔 I'm Deputy Representative of Tech.Uni, which is programming community for college students in Japan.
 
 <!--
 **taka-2120/taka-2120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
