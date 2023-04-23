@@ -4,6 +4,9 @@ I'm Yu Takahashi.
 - 🎓 I’m currently majoring Information Engineering in Kwansei Gakuin University.
 - 🦔 I'm Deputy Representative of Tech.Uni, which is programming community for college students in Japan.
 
+[![Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=taka-2120)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **taka-2120/taka-2120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
